@@ -10,6 +10,8 @@ function App() {
   // const [pass, setPass] = useState("");
   // const [email, setEmail] = useState("");
 
+  // Hello this is your 2ND BRANCH CODE
+
   const initialState = {
     name: "",
     email: "",
